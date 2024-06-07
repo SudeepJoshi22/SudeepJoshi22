@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SudeepJoshi22
+<h1 align="center">Hi 👋, I'm @SudeepJoshi22</h1>
+
 - 👀 I’m interested in ... Computer Architecture, VLSI, and Analog Electronics
 - 🌱 I’m currently learning ... RISC-V ISA and Microarchitecures
 - 💞️ I’m looking to collaborate on ... RISC-V projects
